@@ -1,0 +1,7 @@
+{
+	"user": "neetoons",
+	"repo": "samp-yom_buttons",
+	"tag": "0.0.1",
+	"entry": "test.pwn",
+	"output": "gamemodes/test.amx"
+}
